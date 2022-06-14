@@ -1,3 +1,13 @@
 * Hello World! 👋
+** About me
 
-+ 🔭 I’m currently studying two BS: Computer Science, Data Science
++ 🔭 I’m currently studying two BS: Computer Science, Mathematics.
++ I enjoy music and photography (other than programming).
++ Algorithms  fan. Haskell  enthusiast.
++ That's relevant
++ [[https://gitlab.com/mildewyPrawn][gitLab rulez]].
+
+** Why this is empty
++ I don't like the gamification gitHub has.
++ This is probably the worst social network (more emojis than code (?)).
++ gitHub is probably not good (ICE Contract).
